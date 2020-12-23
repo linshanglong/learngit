@@ -2,4 +2,9 @@ hhyhhg
 hjtgk.
 insert data
 good yeah
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quk.
+=======
+Creating a new branch is quk.
+
+>>>>>>> feature1
