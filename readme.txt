@@ -2,4 +2,4 @@ hhyhhg
 hjtgk.
 insert data
 good yeah
-Creating a new branch 
+Creating a new branch is quick fix bug.
